@@ -1,0 +1,9 @@
+[2024-09-13T02:43:16.422926+00:00] ipt10.WARNING: [Jansen Earl G. Venal] [] []
+[2024-09-13T02:43:16.425052+00:00] ipt10.ERROR: [venal.jansenearl@auf.edu.ph] [] []
+[2024-09-13T02:43:16.425106+00:00] ipt10.INFO: profile {"student_number":"[19-2255-291]","college":"[College of Computer Studies]","program":"[Bachelor of Information Technology]","university":"[Angeles University Foundation]"} []
+[2024-09-13T02:43:16.425506+00:00] TestLogger.INFO: TestClass::greet Greeting sent to Jansen Venal [] []
+[2024-09-13T02:43:16.425573+00:00] TestLogger.INFO: TestClass Calculated the average {"average":1706} []
+[2024-09-13T02:43:16.425619+00:00] TestLogger.INFO: TestClass Found the largest number {"largest":6734} []
+[2024-09-13T02:43:16.425659+00:00] TestLogger.INFO: TestClass Found the smallest number {"smallest":-99} []
+[2024-09-13T02:43:16.426087+00:00] ipt10.INFO: data [100,345,4563,65,234,6734,-99] []
+

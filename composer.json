@@ -1,0 +1,19 @@
+{
+    "name": "aufcss/ipt10-lab6",
+    "description": "A simple PHP project using Composer",
+    "require": {
+        "monolog/monolog": "3.7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aufcss\\Ipt10Lab6\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jansen Venal"
+        }
+    ],
+    "minimum-stability": "stable"
+}
